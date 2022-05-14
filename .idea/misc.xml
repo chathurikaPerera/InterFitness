@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/gitlearn/InterFitness/app/src/main/res/layout/activity_main.xml" value="0.23541666666666666" />
+        <entry key="..\:/gitlearn/InterFitness/app/src/main/res/drawable/bg_rounded.xml" value="0.2755208333333333" />
+        <entry key="..\:/gitlearn/InterFitness/app/src/main/res/drawable/btn_rounded.xml" value="0.2755208333333333" />
+        <entry key="..\:/gitlearn/InterFitness/app/src/main/res/drawable/curved_rectangle.xml" value="0.2755208333333333" />
+        <entry key="..\:/gitlearn/InterFitness/app/src/main/res/drawable/line_rectangle.xml" value="0.2520833333333333" />
+        <entry key="..\:/gitlearn/InterFitness/app/src/main/res/drawable/rectangle.xml" value="0.2520833333333333" />
+        <entry key="..\:/gitlearn/InterFitness/app/src/main/res/layout/activity_main.xml" value="0.27546296296296297" />
+        <entry key="..\:/gitlearn/InterFitness/app/src/main/res/layout/activity_sign_in.xml" value="0.259375" />
+        <entry key="..\:/gitlearn/InterFitness/app/src/main/res/layout/activity_splash_screen.xml" value="0.259375" />
       </map>
     </option>
   </component>
